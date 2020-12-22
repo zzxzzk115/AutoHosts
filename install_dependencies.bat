@@ -1,1 +1,3 @@
-call pip install bs4, lxml, requests
+call pip install bs4 lxml requests
+
+pause

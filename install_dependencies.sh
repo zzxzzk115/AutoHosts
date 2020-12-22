@@ -1,2 +1,2 @@
 #!/bin/bash
-pip install bs4, lxml, requests
+pip install bs4 lxml requests
